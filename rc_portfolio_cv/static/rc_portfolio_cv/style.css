@@ -1,0 +1,54 @@
+/* CSS Code */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.inline {
+    display: inline;
+    margin-right: 5px; /* Optional: adds space between the heading and paragraph */
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+section h2 {
+    color: #333;
+    margin-top: 20px;
+}
+
+section ul {
+    list-style-type: disc;
+    margin-left: 5px;
+}
+
+section ul li {
+    margin-bottom: 5px;
+}
+
+section ol {
+    margin-left: 10px;
+}
+
+section ol li {
+    margin-bottom: 5px;
+}
